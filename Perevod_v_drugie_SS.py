@@ -1,4 +1,6 @@
-f = open('input.txt','r')
+print("hello world")
+
+f = open('input.txt','r') #enter the number of transfers in the file
 g = open('output.txt','w')
 i = int(f.readline())
 for j in range(i):
