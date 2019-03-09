@@ -1,5 +1,5 @@
 print("hello world")
-
+print("адин адин два")
 
 print("hel")
 print("trololo")
