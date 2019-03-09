@@ -5,7 +5,7 @@ print("hel")
 print("trololo")
 
 
-
+111123
 print("1")
 print("gadost'")
 f = open('input.txt','r') #enter the number of transfers in the file
