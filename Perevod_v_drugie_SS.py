@@ -1,8 +1,9 @@
 print("hello world")
-
+print("àäèí àäèí äâà")
 
 print("hel")
 print("trololo")
+
 
 
 print("1")
