@@ -1,8 +1,13 @@
 print("hello world")
-print("адин адин два")
+print("Г Г¤ГЁГ­ Г Г¤ГЁГ­ Г¤ГўГ ")
 
 print("hel")
 print("trololo")
+
+
+
+print("1")
+print("gadost'")
 f = open('input.txt','r') #enter the number of transfers in the file
 g = open('output.txt','w')
 i = int(f.readline())
